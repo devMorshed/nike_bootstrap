@@ -4,3 +4,17 @@
 body{
   font-family: 'Cabin Condensed', sans-serif;
 }
+
+.header{
+  height: 100vh;
+  margin-top: -3rem ;
+  background-color: #FFF9F4; 
+}
+
+.text-orange{
+  color: #FA804C;
+}
+
+.text-blue{
+  color: #363958;
+}
