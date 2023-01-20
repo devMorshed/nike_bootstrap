@@ -1,0 +1,6 @@
+/* importing fonts */
+@import url('https://fonts.googleapis.com/css2?family=Cabin+Condensed:wght@400;500;600;700&display=swap');
+
+body{
+  font-family: 'Cabin Condensed', sans-serif;
+}
